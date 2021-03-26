@@ -396,7 +396,7 @@ CREATE TABLE "TmpProblem"  (
 startup.Bootstrap.main()            主类
 ↓
 gui.panel.MainFrame.instance        程序窗体
-├─gui.listener.ToolBarListener等    监控按钮操作
+├─gui.listener.ToolBarListener    	监控按钮操作
 ↓
 gui.panel.MainPanel.instance        底层Panel及导航栏
 ↓
